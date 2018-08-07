@@ -1,5 +1,5 @@
 # touchpadlinux
-Touchpad Natual Scrolling On Linux (Solved)
+Touchpad Natural Scrolling On Linux (Solved)
 
 1. Add this repository on linux using 
           sudo add-apt-repository ppa:atareao/atareao
